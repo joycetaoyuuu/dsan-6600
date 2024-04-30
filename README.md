@@ -1,4 +1,5 @@
-# DSAN-6600 Project: Student Essay Score Predicting with Neural Networks
+# DSAN-6600 Project
+# Student Essay Score Predicting with Neural Networks
 
 ## Introduction
 
@@ -12,7 +13,7 @@ This project utilized student essays (text data) to predict their corresponding 
 
 Basic exploratory data analysis (EDA) techniques are applied to check some features inside the essay, including the distribution of scores, word count, and vocabulary size and possible topics. 
 
-Deep learning models, like LSTM (RNN-based), DistilBERT, and DeBERTa (transformer-based) models, are used for modeling.
+Deep learning models, like LSTM (RNN-based), DistilBERT, and DeBERTa (transformer-based) models are used for modeling.
 
 ## Results
 
